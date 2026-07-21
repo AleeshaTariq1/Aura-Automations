@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#0A1620"/>
+  <rect x="1" y="1" width="62" height="62" rx="9" fill="none" stroke="#22415A" stroke-width="1.5"/>
+  <!-- corner brackets, matching site's bracketed style -->
+  <path d="M6 14 V6 H14" fill="none" stroke="#6FD8D2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M58 50 V58 H50" fill="none" stroke="#6FD8D2" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Letterform: A -->
+  <path d="M32 15 L47 47 H40.5 L37.2 39.5 H26.8 L23.5 47 H17 Z M32 24.5 L27.8 34 H36.2 Z" fill="#E8A33D"/>
+</svg>
